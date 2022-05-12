@@ -1,4 +1,4 @@
 # SegmatiClient
 SegmatiClient hacked client for minecraft.
 
-- text in red
+- For now SegmatiClient it's free, download now.
